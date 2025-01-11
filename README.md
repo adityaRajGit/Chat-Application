@@ -1,4 +1,4 @@
-# React Real-Time Chat App
+# Real-Time Chat App
 
 <p align="center">
     <img src="http://git-assets.react-starter-kit.com/logo.png">  
